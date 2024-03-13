@@ -1,0 +1,19 @@
+PRINT()
+print('Hello Praveen!') -> The print statement used to print the desired message on the screen that is inside quotes. It also prints other type.
+
+New line (\n)
+print('Hello Praveen!\nHow are you') -> It prints the following string in the next line.
+
+Concatenate (+)
+print('Hello ' + 'Praveen') -> It is used to combine the strings.
+
+Input()
+input() -> It is used to get input from users.
+
+Variable
+name = 'Praveen' -> By using {name} it allows the value (Praveen) to be accessible globally.
+
+Commant (#)
+#test -> Python comments are ignored by the Python interpreter, and are used to explain code, make code more readable, and prevent execution when testing code. 
+
+On using above learned concept, I made my first project, simple band name generator.
