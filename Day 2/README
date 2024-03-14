@@ -1,0 +1,24 @@
+input() always be in string type. Check the same using type().
+
+Convert one datatype to another using following,
+float() - To convert any datatype into float (decimals). EG: 1.23
+int() - To convert any datatype into integer. EG: 1
+str() - To convert any datatype into string (that comes inside quotes). EG: "1.23"
+
+Python uses PEMDAS for mathematical operations.
+P - Parantheses
+E - Exponent
+M - Multiplication
+D - Division
+A - Addition
+S - Subtraction
+
+To round off any decimals, use round(digit, decimal_places) (EG: round(1.2308, 2))
+or use floor division, EG: 8 // 3 - 2.67 (natural round off the decimal places to 2)
+
+Integer and string can't be printed in same statement. To do so use f-String
+
+Mark = 55
+print(f"You mark is {Mark}")
+
+Using the above learning, done a simple tip calculator project.
