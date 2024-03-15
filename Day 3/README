@@ -1,0 +1,32 @@
+--if else:
+if condition:
+	do this
+else:
+	do this
+
+--Nested if and elif
+if condition:
+	if condition:
+		do this
+	else:
+		do this
+else:
+	do this
+
+elif>>
+if condition1:
+	do A
+elif condition2:
+	do B
+else:
+	do this
+
+--Multiple if
+if condition1:
+	do A
+if condition1:
+	do B
+
+--Logical operator
+
+Based on above learning, done a treasure island project.
