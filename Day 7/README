@@ -9,5 +9,5 @@ print
 list
     
 
-hangman_art = Contains ASCII art for Hangman art and logo
+hangman_art = Contains ASCII art for Hangman figure (different stages) and logo
 hangman_words = Contains a list of words 
