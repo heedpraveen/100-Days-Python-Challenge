@@ -1,4 +1,4 @@
-Created Hangman game with learned concepts.
+Created a Hangman game with learned concepts.
 
 import
 Variable assigning
@@ -8,3 +8,6 @@ print
 "if" loop
 list
     
+
+hangman_art = Contains ASCII art for Hangman art and logo
+hangman_words = Contains a list of words 
